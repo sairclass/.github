@@ -7,7 +7,7 @@
 - Don't know Git? Here is free course for [How to use Git and GitHub](https://www.udacity.com/course/version-control-with-git--ud123).
 
 
-## Mission of the SARI Lab
+## Mission of the SAIR Lab
 
 - Our research goal is to achieve **human-level spatial awareness** and **reasoning** on **robotic systems**.
 
