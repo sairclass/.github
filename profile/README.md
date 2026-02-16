@@ -9,11 +9,11 @@
 
 ## Mission of the SAIR Lab
 
-- Our research goal is to achieve **human-level spatial awareness** and **reasoning** on **robotic systems**.
+- Our research goal is to achieve **human-level autonomy** on **mobile robots**.
 
-- We are interested in all aspects of algorithm development, including creating **efficient algorithms**,
-proving their **theoretical properties**, distributing them to **open-source communities**, and validating
-them on **real-world robots**.
+- This organization provide materials for teaching.
+
+- You may follow SAIR Lab's GitHub Org [sair-lab](https://github.com/sair-lab) for research.
 
 
 ## Find us elsewhere 🌎
